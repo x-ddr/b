@@ -11,8 +11,8 @@
 使用方法
 例：https://cdn.jsdelivr.net/gh/x-dr/b/pic/时间.png
 
-https://cdn.jsdelivr.net/gh/x-dr/b/pic/20200801.png
+> https://cdn.jsdelivr.net/gh/x-dr/b/pic/20200801.png
 
-例：https://cdn.jsdelivr.net/gh/x-dr/b/pic/时间.json
+例：https://cdn.jsdelivr.net/gh/x-dr/b/json/时间.json
 
-https://cdn.jsdelivr.net/gh/x-dr/b/pic/20200801.json
+> https://cdn.jsdelivr.net/gh/x-dr/b/json/20200801.json
