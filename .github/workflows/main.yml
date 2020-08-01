@@ -5,7 +5,7 @@ on:
     branches: 
       - master
   schedule:
-    - cron: '05 0 * * *'
+    - cron: '0 16 * * *'
 jobs:
   Bing-spider:
     runs-on: ubuntu-latest
@@ -28,7 +28,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "?? add a BingPic" -a
+          git commit -m "xd add a BingPic" -a
       - name: 'Push changes'
         uses: ad-m/github-push-action@master
         with:
